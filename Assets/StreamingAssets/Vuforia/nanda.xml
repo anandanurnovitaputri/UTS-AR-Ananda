@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QCARConfig>
+  <Tracking>
+    <ImageTarget name="serangga" size="1.000000 0.867220" />
+    <ImageTarget name="bunga" size="1.000000 1.250674" />
+    <ImageTarget name="kupu-kupu" size="1.000000 0.623782" />
+  </Tracking>
+</QCARConfig>
